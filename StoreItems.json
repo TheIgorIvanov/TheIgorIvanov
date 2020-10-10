@@ -1,7 +1,7 @@
 {
 	"items" : [
 	{
-		"abr": "челюстнойимплантат",
+		"abr": "молчаливыйчелюстнойимплантат",
 		"price": 583,
 		"category": "Бионические",
 		"defname": "SilentJaw"
@@ -649,12 +649,6 @@
 		"defname": "VFES_Turret_Artillery"
 	},
 	{
-		"abr": "assaultarmor",
-		"price": 3717,
-		"category": "Одежда",
-		"defname": "Apparel_Bjorn"
-	},
-	{
 		"abr": "assaultcharger",
 		"price": 2500,
 		"category": "Оружие дальнего боя",
@@ -665,12 +659,6 @@
 		"price": 1367,
 		"category": "Оружие ближнего боя",
 		"defname": "JI_Ormbane"
-	},
-	{
-		"abr": "assaulthelmet",
-		"price": 1367,
-		"category": "Головные уборы",
-		"defname": "Apparel_BjornH"
 	},
 	{
 		"abr": "atispec",
@@ -1385,36 +1373,6 @@
 		"price": 333,
 		"category": "Animal",
 		"defname": "AEXP_CatBritishShorthair"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Builder_I_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Builder_II_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Builder_III_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Builder_IV_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Builder_V_disabled"
 	},
 	{
 		"abr": "builder(i)basestation",
@@ -2233,30 +2191,6 @@
 		"defname": "AIRobot_RechargeStation_Cleaner_V"
 	},
 	{
-		"abr": "cleaningbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "AIRobot_Cleaner_II_disabled"
-	},
-	{
-		"abr": "cleaningbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "AIRobot_Cleaner_III_disabled"
-	},
-	{
-		"abr": "cleaningbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "AIRobot_Cleaner_IV_disabled"
-	},
-	{
-		"abr": "cleaningbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "AIRobot_Cleaner_V_disabled"
-	},
-	{
 		"abr": "cleaver",
 		"price": 288,
 		"category": "Оружие ближнего боя",
@@ -2341,12 +2275,6 @@
 		"defname": "Bow_Compound"
 	},
 	{
-		"abr": "concussionbaton",
-		"price": 2300,
-		"category": "Оружие ближнего боя",
-		"defname": "AD_Verdict"
-	},
-	{
 		"abr": "corgi",
 		"price": 1083,
 		"category": "Animal",
@@ -2369,36 +2297,6 @@
 		"price": 250,
 		"category": "Animal",
 		"defname": "AEXP_Coyote"
-	},
-	{
-		"abr": "crafterbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Crafter_I_disabled"
-	},
-	{
-		"abr": "crafterbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Crafter_II_disabled"
-	},
-	{
-		"abr": "crafterbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Crafter_III_disabled"
-	},
-	{
-		"abr": "crafterbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Crafter_IV_disabled"
-	},
-	{
-		"abr": "crafterbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Crafter_V_disabled"
 	},
 	{
 		"abr": "crafter(i)basestation",
@@ -2483,24 +2381,6 @@
 		"price": 83,
 		"category": "Изделия",
 		"defname": "CrucibleCore"
-	},
-	{
-		"abr": "cruciblepistol",
-		"price": 950,
-		"category": "Federation weapons",
-		"defname": "AD_Negotiator"
-	},
-	{
-		"abr": "crucibleprecisionrifle",
-		"price": 2133,
-		"category": "Federation weapons",
-		"defname": "AD_Intercessor"
-	},
-	{
-		"abr": "cruciblerifle",
-		"price": 1608,
-		"category": "Federation weapons",
-		"defname": "AD_Pacificator"
 	},
 	{
 		"abr": "crudebatterypack",
@@ -2821,12 +2701,6 @@
 		"defname": "RGK_bedDoubleB"
 	},
 	{
-		"abr": "doublebeddingset",
-		"price": 342,
-		"category": "Beddings",
-		"defname": "DoubleBedding"
-	},
-	{
 		"abr": "dresser",
 		"price": 179,
 		"category": "Мебель",
@@ -3041,36 +2915,6 @@
 		"price": 608,
 		"category": "Производство",
 		"defname": "GDTable"
-	},
-	{
-		"abr": "erbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_ER_I_disabled"
-	},
-	{
-		"abr": "erbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_ER_II_disabled"
-	},
-	{
-		"abr": "erbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_ER_III_disabled"
-	},
-	{
-		"abr": "erbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_ER_IV_disabled"
-	},
-	{
-		"abr": "erbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_ER_V_disabled"
 	},
 	{
 		"abr": "er(i)basestation",
@@ -3811,12 +3655,6 @@
 		"defname": "VCEF_RawHalibut"
 	},
 	{
-		"abr": "hammock",
-		"price": 121,
-		"category": "Мебель",
-		"defname": "Rede"
-	},
-	{
 		"abr": "hampers",
 		"price": 383,
 		"category": "Мебель",
@@ -3877,30 +3715,6 @@
 		"defname": "AIRobot_RechargeStation_Hauler_V"
 	},
 	{
-		"abr": "haulingbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "AIRobot_Hauler_II_disabled"
-	},
-	{
-		"abr": "haulingbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "AIRobot_Hauler_III_disabled"
-	},
-	{
-		"abr": "haulingbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "AIRobot_Hauler_IV_disabled"
-	},
-	{
-		"abr": "haulingbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "AIRobot_Hauler_V_disabled"
-	},
-	{
 		"abr": "hayloft",
 		"price": 287,
 		"category": "Мебель",
@@ -3929,12 +3743,6 @@
 		"price": 1750,
 		"category": "Головные уборы",
 		"defname": "SF_HazardOperationsArmorHelmet"
-	},
-	{
-		"abr": "heatprojector",
-		"price": 2908,
-		"category": "Federation weapons",
-		"defname": "AD_Arbiter"
 	},
 	{
 		"abr": "heavyrevolver",
@@ -3999,7 +3807,7 @@
 	{
 		"abr": "hologram",
 		"price": 542,
-		"category": "Искусство",
+		"category": "",
 		"defname": "VFE_HologramOn"
 	},
 	{
@@ -4667,36 +4475,6 @@
 		"price": 1142,
 		"category": "Производство",
 		"defname": "TETable"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Kitchen_I_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Kitchen_II_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Kitchen_III_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Kitchen_IV_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Kitchen_V_disabled"
 	},
 	{
 		"abr": "kitchensinkcabinet",
@@ -5875,18 +5653,6 @@
 		"defname": "NegotiationMindImplant"
 	},
 	{
-		"abr": "nervesuit",
-		"price": 3567,
-		"category": "Одежда",
-		"defname": "Apparel_Nervesuit"
-	},
-	{
-		"abr": "nervesuithelmet",
-		"price": 1117,
-		"category": "Головные уборы",
-		"defname": "Apparel_NervesuitH"
-	},
-	{
 		"abr": "neuralhighways",
 		"price": 2667,
 		"category": "Android",
@@ -5987,12 +5753,6 @@
 		"price": 19092,
 		"category": "Мебель",
 		"defname": "RPP_RechargeStation_Omni_V"
-	},
-	{
-		"abr": "omnibot(disabled)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "RPP_Bot_Omni_V_disabled"
 	},
 	{
 		"abr": "operatingtable",
@@ -6427,18 +6187,6 @@
 		"defname": "Meat_AEXP_Seal"
 	},
 	{
-		"abr": "pioneerarmor",
-		"price": 1950,
-		"category": "Одежда",
-		"defname": "Apparel_Laconian"
-	},
-	{
-		"abr": "pioneerhelmet",
-		"price": 967,
-		"category": "Головные уборы",
-		"defname": "Apparel_LaconianH"
-	},
-	{
 		"abr": "piranha",
 		"price": 5,
 		"category": "Raw fish",
@@ -6449,18 +6197,6 @@
 		"price": 2,
 		"category": "Растительного происхождения",
 		"defname": "AA_CactusMeat"
-	},
-	{
-		"abr": "plasmacaliver",
-		"price": 4942,
-		"category": "Federation weapons",
-		"defname": "AD_Axiom"
-	},
-	{
-		"abr": "plasmagrenade",
-		"price": 1500,
-		"category": "Гранаты",
-		"defname": "AD_Repose"
 	},
 	{
 		"abr": "plasmarifle",
@@ -6821,18 +6557,6 @@
 		"price": 2,
 		"category": "Материалы",
 		"defname": "GU_RedWood"
-	},
-	{
-		"abr": "reflactorcarapace",
-		"price": 3350,
-		"category": "Одежда",
-		"defname": "Apparel_Nemesis"
-	},
-	{
-		"abr": "reflactorhelmet",
-		"price": 1117,
-		"category": "Головные уборы",
-		"defname": "Apparel_NemesisH"
 	},
 	{
 		"abr": "regsitstool",
@@ -7481,12 +7205,6 @@
 		"price": 350,
 		"category": "Производство",
 		"defname": "RGK_SimpleResearchBench"
-	},
-	{
-		"abr": "singlebeddingset",
-		"price": 204,
-		"category": "Beddings",
-		"defname": "SingleBedding"
 	},
 	{
 		"abr": "singularitygrenades",
@@ -8997,13 +8715,13 @@
 	{
 		"abr": "бионическаякисть",
 		"price": 883,
-		"category": "Бионические протезы",
+		"category": "Бионические",
 		"defname": "BionicHand"
 	},
 	{
 		"abr": "бионическаянога",
 		"price": 1700,
-		"category": "Бионические протезы",
+		"category": "Бионические",
 		"defname": "BionicLeg"
 	},
 	{
@@ -9027,7 +8745,7 @@
 	{
 		"abr": "бионическаярука",
 		"price": 1700,
-		"category": "Бионические протезы",
+		"category": "Бионические",
 		"defname": "BionicArm"
 	},
 	{
@@ -9039,7 +8757,7 @@
 	{
 		"abr": "бионическаяступня",
 		"price": 883,
-		"category": "Бионические протезы",
+		"category": "Бионические",
 		"defname": "BionicFoot"
 	},
 	{
@@ -9051,7 +8769,7 @@
 	{
 		"abr": "бионическийглаз",
 		"price": 1200,
-		"category": "Бионические протезы",
+		"category": "Бионические",
 		"defname": "BionicEye"
 	},
 	{
@@ -9075,7 +8793,7 @@
 	{
 		"abr": "бионическийпозвоночник",
 		"price": 1667,
-		"category": "Бионические протезы",
+		"category": "Бионические",
 		"defname": "BionicSpine"
 	},
 	{
@@ -9087,7 +8805,7 @@
 	{
 		"abr": "бионическийчелюстнойимплантат",
 		"price": 950,
-		"category": "Бионические протезы",
+		"category": "Бионические",
 		"defname": "BionicJaw"
 	},
 	{
@@ -9105,7 +8823,7 @@
 	{
 		"abr": "бионическоеухо",
 		"price": 633,
-		"category": "Бионические протезы",
+		"category": "Бионические",
 		"defname": "BionicEar"
 	},
 	{
@@ -9399,7 +9117,7 @@
 	{
 		"abr": "генераторвихря",
 		"price": 1333,
-		"category": "Оружие дальнего боя",
+		"category": "Доп. снаряжение",
 		"defname": "TornadoGenerator"
 	},
 	{
@@ -9469,180 +9187,6 @@
 		"defname": "Ibex"
 	},
 	{
-		"abr": "гостеваяadvancedbed",
-		"price": 833,
-		"category": "Мебель",
-		"defname": "Bed_AdvBedGuest"
-	},
-	{
-		"abr": "гостеваяadvanceddoublebed",
-		"price": 1483,
-		"category": "Мебель",
-		"defname": "Bed_AdvDoubleBedGuest"
-	},
-	{
-		"abr": "гостеваяandroidupgradestation",
-		"price": 1142,
-		"category": "Мебель",
-		"defname": "AndroidOperationBedGuest"
-	},
-	{
-		"abr": "гостеваяbed",
-		"price": 155,
-		"category": "Мебель",
-		"defname": "RGK_bedSingleGuest"
-	},
-	{
-		"abr": "гостеваяbed2",
-		"price": 155,
-		"category": "Мебель",
-		"defname": "RGK_bedSingleBGuest"
-	},
-	{
-		"abr": "гостеваяclassydoublebed",
-		"price": 942,
-		"category": "Мебель",
-		"defname": "GL_ClassyDoubleBedGuest"
-	},
-	{
-		"abr": "гостеваяcryptosleepsuspender",
-		"price": 733,
-		"category": "Мебель",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "гостеваяdoublebed",
-		"price": 292,
-		"category": "Мебель",
-		"defname": "RGK_bedDoubleGuest"
-	},
-	{
-		"abr": "гостеваяdoublebed2",
-		"price": 292,
-		"category": "Мебель",
-		"defname": "RGK_bedDoubleBGuest"
-	},
-	{
-		"abr": "гостеваяergonomicbed",
-		"price": 450,
-		"category": "Мебель",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "гостеваяergonomicdoublebed",
-		"price": 867,
-		"category": "Мебель",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "гостеваяhammock",
-		"price": 121,
-		"category": "Мебель",
-		"defname": "RedeGuest"
-	},
-	{
-		"abr": "гостеваяkrudneppsinglebed",
-		"price": 172,
-		"category": "Мебель",
-		"defname": "KRUDNEPPSingleGuest"
-	},
-	{
-		"abr": "гостеваяoperatingtable",
-		"price": 508,
-		"category": "Мебель",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "гостеваяpilfurbed",
-		"price": 70,
-		"category": "Мебель",
-		"defname": "PILFURBedGuest"
-	},
-	{
-		"abr": "гостеваяroyalposterbed",
-		"price": 2008,
-		"category": "Мебель",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "гостеваяsimplebed",
-		"price": 137,
-		"category": "Мебель",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "гостеваяslabbed",
-		"price": 111,
-		"category": "Мебель",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
-		"abr": "гостеваяslabneppdoublebed",
-		"price": 342,
-		"category": "Мебель",
-		"defname": "SLABNEPPDoubleGuest"
-	},
-	{
-		"abr": "гостеваяsnoreggdoublebed",
-		"price": 517,
-		"category": "Мебель",
-		"defname": "SNOREGGDoubleGuest"
-	},
-	{
-		"abr": "гостеваяsnoreggsinglebed",
-		"price": 276,
-		"category": "Мебель",
-		"defname": "SNOREGGSingleGuest"
-	},
-	{
-		"abr": "гостеваябольничнаякровать",
-		"price": 667,
-		"category": "Мебель",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "гостеваядвойнаякровать",
-		"price": 292,
-		"category": "Мебель",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "гостеваядвойнойспальныймешок",
-		"price": 290,
-		"category": "Мебель",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "гостеваякапсулаm7",
-		"price": 1483,
-		"category": "Мебель",
-		"defname": "ATPP_AndroidPodMechGuest"
-	},
-	{
-		"abr": "гостеваякапсулаандроидов",
-		"price": 282,
-		"category": "Мебель",
-		"defname": "ATPP_AndroidPodGuest"
-	},
-	{
-		"abr": "гостеваякровать",
-		"price": 155,
-		"category": "Мебель",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "гостеваяроскошнаякровать",
-		"price": 1467,
-		"category": "Мебель",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "гостеваяспальныймешок",
-		"price": 137,
-		"category": "Мебель",
-		"defname": "BedrollGuest"
-	},
-	{
 		"abr": "гранатомет",
 		"price": 508,
 		"category": "Оружие дальнего боя",
@@ -9671,12 +9215,6 @@
 		"price": 2,
 		"category": "Растительного происхождения",
 		"defname": "RawFungus"
-	},
-	{
-		"abr": "грузовойдрон(отключен)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "AIRobot_Hauler_disabled"
 	},
 	{
 		"abr": "гусиноеяйцо",
@@ -9773,12 +9311,6 @@
 		"price": 425,
 		"category": "Оружие дальнего боя",
 		"defname": "Gun_PumpShotgun"
-	},
-	{
-		"abr": "дрон-уборщик(отключен)",
-		"price": 42,
-		"category": "Дроны",
-		"defname": "AIRobot_Cleaner_disabled"
 	},
 	{
 		"abr": "дубина",
@@ -10017,13 +9549,13 @@
 	{
 		"abr": "искусственныйнос",
 		"price": 270,
-		"category": "Простые протезы",
+		"category": "Протезы",
 		"defname": "ArtificialNose"
 	},
 	{
 		"abr": "искусственныйтаз",
 		"price": 808,
-		"category": "Простые протезы",
+		"category": "Протезы",
 		"defname": "ArtificialPelvis"
 	},
 	{
@@ -10261,18 +9793,6 @@
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
-		"abr": "копьёбезумия",
-		"price": 1083,
-		"category": "Артефакты",
-		"defname": "PsychicInsanityLance"
-	},
-	{
-		"abr": "копьёпотрясения",
-		"price": 917,
-		"category": "Артефакты",
-		"defname": "PsychicShockLance"
-	},
-	{
 		"abr": "корова",
 		"price": 500,
 		"category": "Animal",
@@ -10341,7 +9861,7 @@
 	{
 		"abr": "кохлеарныйимплант",
 		"price": 408,
-		"category": "Простые протезы",
+		"category": "Протезы",
 		"defname": "CochlearImplant"
 	},
 	{
@@ -10469,18 +9989,6 @@
 		"price": 3,
 		"category": "Кожа",
 		"defname": "Leather_Light"
-	},
-	{
-		"abr": "легкаякосмопехотнаяброня",
-		"price": 2183,
-		"category": "Одежда",
-		"defname": "VAE_Apparel_LightMarineArmor"
-	},
-	{
-		"abr": "легкийкосмопехотныйшлем",
-		"price": 733,
-		"category": "Головные уборы",
-		"defname": "VAE_Headgear_LightMarineHelmet"
 	},
 	{
 		"abr": "легкийпистолет-пулемет",
@@ -11661,79 +11169,79 @@
 	{
 		"abr": "нейротренер(ближнийбой)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "нейротренер(горноедело)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "нейротренер(дальнийбой)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "нейротренер(животноводство)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "нейротренер(искусство)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "нейротренер(кулинария)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "нейротренер(медицина)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "нейротренер(общение)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Social"
 	},
 	{
 		"abr": "нейротренер(растениеводство)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "нейротренер(ремесло)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "нейротренер(строительство)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "нейротренер(умственныйтруд)",
 		"price": 1250,
-		"category": "Нейротренеры",
+		"category": "Нейротренеры навыков",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "нейроформерпси-связи",
 		"price": 4333,
-		"category": "Предметы",
+		"category": "Архотехнологии",
 		"defname": "PsychicAmplifier"
 	},
 	{
@@ -12051,7 +11559,7 @@
 	{
 		"abr": "плазменныйсинхромеч",
 		"price": 5000,
-		"category": "Синхронитевое оружие",
+		"category": "Оружие с личностью",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
@@ -12177,13 +11685,13 @@
 	{
 		"abr": "пояс-дымзавеса",
 		"price": 277,
-		"category": "Одежда",
+		"category": "Доп. снаряжение",
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
 		"abr": "пояс-щит",
 		"price": 650,
-		"category": "Броня",
+		"category": "Доп. снаряжение",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
@@ -12249,13 +11757,13 @@
 	{
 		"abr": "простойпротезкисти",
 		"price": 467,
-		"category": "Простые протезы",
+		"category": "Протезы",
 		"defname": "SimpleProstheticHand"
 	},
 	{
 		"abr": "простойпротезноги",
 		"price": 717,
-		"category": "Простые протезы",
+		"category": "Протезы",
 		"defname": "SimpleProstheticLeg"
 	},
 	{
@@ -12267,7 +11775,7 @@
 	{
 		"abr": "простойпротезруки",
 		"price": 717,
-		"category": "Простые протезы",
+		"category": "Протезы",
 		"defname": "SimpleProstheticArm"
 	},
 	{
@@ -12279,7 +11787,7 @@
 	{
 		"abr": "простойпротезступни",
 		"price": 467,
-		"category": "Простые протезы",
+		"category": "Протезы",
 		"defname": "SimpleProstheticFoot"
 	},
 	{
@@ -12723,7 +12231,7 @@
 	{
 		"abr": "силоваярука",
 		"price": 3517,
-		"category": "Бионические протезы",
+		"category": "Бионические",
 		"defname": "PowerArm"
 	},
 	{
@@ -12753,13 +12261,13 @@
 	{
 		"abr": "синтетическаяпечень",
 		"price": 2042,
-		"category": "Синтетические органы",
+		"category": "Бионические",
 		"defname": "SyntheticLiver"
 	},
 	{
 		"abr": "синтетическаяпочка",
 		"price": 2042,
-		"category": "Синтетические органы",
+		"category": "Бионические",
 		"defname": "SyntheticKidney"
 	},
 	{
@@ -12771,7 +12279,7 @@
 	{
 		"abr": "синтетическоелегкое",
 		"price": 2042,
-		"category": "Синтетические органы",
+		"category": "Бионические",
 		"defname": "SyntheticLung"
 	},
 	{
@@ -12789,13 +12297,13 @@
 	{
 		"abr": "синхромономеч",
 		"price": 5000,
-		"category": "Синхронитевое оружие",
+		"category": "Оружие с личностью",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "синхроэлектромолот",
 		"price": 5000,
-		"category": "Синхронитевое оружие",
+		"category": "Оружие с личностью",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
 	{
@@ -13137,25 +12645,25 @@
 	{
 		"abr": "улучшеннаябионическаякисть",
 		"price": 2092,
-		"category": "Улучшенные бионические протезы",
+		"category": "Ультратехнологии",
 		"defname": "AdvancedBionicHand"
 	},
 	{
 		"abr": "улучшеннаябионическаянога",
 		"price": 3575,
-		"category": "Улучшенные бионические протезы",
+		"category": "Ультратехнологии",
 		"defname": "AdvancedBionicLeg"
 	},
 	{
 		"abr": "улучшеннаябионическаярука",
 		"price": 3575,
-		"category": "Улучшенные бионические протезы",
+		"category": "Ультратехнологии",
 		"defname": "AdvancedBionicArm"
 	},
 	{
 		"abr": "улучшеннаябионическаяступня",
 		"price": 2092,
-		"category": "Улучшенные бионические протезы",
+		"category": "Ультратехнологии",
 		"defname": "AdvancedBionicFoot"
 	},
 	{
@@ -13167,25 +12675,25 @@
 	{
 		"abr": "улучшеннаясиловаярука",
 		"price": 5258,
-		"category": "Улучшенные бионические протезы",
+		"category": "Ультратехнологии",
 		"defname": "AdvancedPowerArm"
 	},
 	{
 		"abr": "улучшенноебионическоеухо",
 		"price": 1350,
-		"category": "Улучшенные бионические протезы",
+		"category": "Ультратехнологии",
 		"defname": "AdvancedBionicEar"
 	},
 	{
 		"abr": "улучшенныйбионическийглаз",
 		"price": 2908,
-		"category": "Улучшенные бионические протезы",
+		"category": "Ультратехнологии",
 		"defname": "AdvancedBionicEye"
 	},
 	{
 		"abr": "улучшенныйбионическийпозвоночник",
 		"price": 3533,
-		"category": "Улучшенные бионические протезы",
+		"category": "Ультратехнологии",
 		"defname": "AdvancedBionicSpine"
 	},
 	{
@@ -13323,19 +12831,19 @@
 	{
 		"abr": "целеуказательдлябомбардировки",
 		"price": 2000,
-		"category": "Оружие дальнего боя",
+		"category": "Доп. снаряжение",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
 		"abr": "целеуказательдлявысадкимеханоидов",
 		"price": 2000,
-		"category": "Оружие дальнего боя",
+		"category": "Доп. снаряжение",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
 		"abr": "целеуказательдлясиловоголуча",
 		"price": 2000,
-		"category": "Оружие дальнего боя",
+		"category": "Доп. снаряжение",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
@@ -13575,7 +13083,7 @@
 	{
 		"abr": "экзоскелет",
 		"price": 3500,
-		"category": "Улучшенные бионические протезы",
+		"category": "Ультратехнологии",
 		"defname": "ExoskeletonSuit"
 	},
 	{
@@ -13751,7 +13259,61 @@
 		"price": 533,
 		"category": "Animal",
 		"defname": "Yak"
+	},
+	{
+		"abr": "angelmoth",
+		"price": 750,
+		"category": "Animal",
+		"defname": "AA_AngelMoth"
+	},
+	{
+		"abr": "angelmothegg(fert.)",
+		"price": 1,
+		"category": "Яйца (опл.)",
+		"defname": "AA_AngelMothEggFertilized"
+	},
+	{
+		"abr": "angelmothlarva",
+		"price": 25,
+		"category": "Animal",
+		"defname": "AA_AngelMothLarva"
+	},
+	{
+		"abr": "assaultarmor",
+		"price": 3717,
+		"category": "Одежда",
+		"defname": "Apparel_AssaultArmor"
+	},
+	{
+		"abr": "assaulthelmet",
+		"price": 1367,
+		"category": "Головные уборы",
+		"defname": "Apparel_AssaultArmorH"
+	},
+	{
+		"abr": "beret",
+		"price": 141,
+		"category": "Головные уборы",
+		"defname": "Apparel_Beret"
+	},
+	{
+		"abr": "cape",
+		"price": 367,
+		"category": "Одежда знати",
+		"defname": "Apparel_Cape"
+	},
+	{
+		"abr": "concussionbaton",
+		"price": 2300,
+		"category": "Оружие ближнего боя",
+		"defname": "AD_ConcussionBaton"
+	},
+	{
+		"abr": "cruciblepistol",
+		"price": 950,
+		"category": "Federation weapons",
+		"defname": "AD_CruciblePistol"
 	}
 	],
-	"total": 2292
+	"total": 2269
 }
