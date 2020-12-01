@@ -191,11 +191,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "travelergroup",
-		"price": 80,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "visitorgroup",
 		"price": 200,
 		"karmatype": "Good"
@@ -263,12 +258,12 @@
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "predators",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 2000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "randomdisease",
@@ -288,11 +283,11 @@
 	{
 		"abr": "pawn",
 		"price": 1500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
@@ -302,8 +297,8 @@
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
-		"karmatype": "Good"
+		"price": 3500,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "genderswap",
@@ -336,5 +331,5 @@
 		"karmatype": "Neutral"
 	}
 	],
+	"total": 66
 }
-
