@@ -15263,5 +15263,25 @@
 		"price": 3,
 		"category": "Мясо",
 		"defname": "Meat_VFEV_Njorun"
-	"total": 2565
+	},
+	{
+		"abr": "мясоredpanda",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_AEXP_RedPanda"
+	},
+	{
+		"abr": "мясоwolfhound",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_VFEV_Wolfhound"
+	},
+	{
+		"abr": "палкасбомбой",
+		"price": 43,
+		"category": "Гранаты",
+		"defname": "Weapon_GrenadeStickBomb"
+	},
+	],
+	"total":2565
 }
