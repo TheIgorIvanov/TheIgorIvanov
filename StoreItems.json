@@ -7501,36 +7501,6 @@
 		"defname": "Meat_Bion_Base"
 	},
 	{
-		"abr": "t1android",
-		"price": 2333,
-		"category": "Animal",
-		"defname": "Android1Tier"
-	},
-	{
-		"abr": "t2android",
-		"price": 4167,
-		"category": "Animal",
-		"defname": "Android2Tier"
-	},
-	{
-		"abr": "t3android",
-		"price": 8000,
-		"category": "Animal",
-		"defname": "Android3Tier"
-	},
-	{
-		"abr": "t4android",
-		"price": 10000,
-		"category": "Animal",
-		"defname": "Android4Tier"
-	},
-	{
-		"abr": "t5android",
-		"price": 13333,
-		"category": "Animal",
-		"defname": "Android5Tier"
-	},
-	{
 		"abr": "table(1x1)",
 		"price": 70,
 		"category": "Мебель",
